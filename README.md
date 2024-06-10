@@ -48,9 +48,9 @@ List the ready features here:
 2. Open XAMPP Control panal and start [apache] and [mysql] .
 
 3. Download project
-   1. from GitHub (https://github.com/MobinaJafarian/OnlineNewsSite)
+   1. from GitHub (https://github.com/rohit186201/News-Website)
    2. or you can clone by cmd 
-      1. `cd C:\xampp\htdocs && git clone https://github.com/MobinaJafarian/OnlineNewsSite.git`
+      1. `cd C:\xampp\htdocs && git clone https://github.com/rohit186201/News-Website.git`
  
 4. extract files in C:\\xampp\htdocs\.
 
